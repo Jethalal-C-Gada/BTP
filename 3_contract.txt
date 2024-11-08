@@ -1,3 +1,10 @@
+//Write a program in solidity to create Employee data. Use the following 
+//constructs: Structures, Arrays, Fallback
+//Deploy this as smart contract on Ethereum and Observe the 
+//transaction fee and Gas values
+
+
+
 // Solidity program to
 // retrieve address and
 // balance of owner
